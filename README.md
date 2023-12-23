@@ -1,7 +1,7 @@
 # Super Tic Tac Toe 🚀
 
 **Made with ❤️ by KRUPAL**  
-                  **~pSwaqtch**# 
+                  **~pSwaqtch**
 
 
 ## 🔢 Introduction
@@ -32,8 +32,13 @@ Experience the excitement of a dynamic Super Tic Tac Toe game where each cell in
    make clean
    ```
 3. **Run the Program:**
-   ```bash
+   - linux/mac
+   ```bash 
    ./super_tic_tac_toe
+   ```
+   - windows
+   ```bash
+   super_tic_tac_toe.exe
    ```
 4. **Follow On-Screen Instructions:**
    - Enter the names of Player 1 and Player 2 🤝
