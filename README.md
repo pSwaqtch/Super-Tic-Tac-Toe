@@ -24,8 +24,8 @@ Experience the excitement of a dynamic Super Tic Tac Toe game where each cell in
 
 1. **Clone the Repository:**
    ```bash
-   git clone git@github.com:pSwaqtch/Ultimate-Towers-of-Hanoi
-   cd Ultimate-Towers-of-Hanoi
+   git clone git@github.com:pSwaqtch/Super-Tic-Tac-Toe
+   cd Super-Tic-Tac-Toe
    ```
 2. **Make & Compile the Program:**
    ```bash
@@ -34,11 +34,11 @@ Experience the excitement of a dynamic Super Tic Tac Toe game where each cell in
 3. **Run the Program:**
    - linux/mac
    ```bash 
-   ./super_tic_tac_toe
+   ./Super-Tic-Tac-Toe
    ```
    - windows
    ```bash
-   super_tic_tac_toe.exe
+   Super-Tic-Tac-Toe.exe
    ```
 4. **Follow On-Screen Instructions:**
    - Enter the names of Player 1 and Player 2 🤝
